@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Atiqul Islam</h1>
 <h3 align="center">A passionate Mobile & Web App Developer</h3>
 
-- 🔭 I’m currently working on **YA Software LLc**
+- 🔭 I’m currently working on **YA Software LLC as React Native Developer**
 
 - 🌱 I’m currently learning **TypeScript & Swift**
 
 - 👨‍💻 All of my projects are available at [https://atiqulislamwb.netlify.app/project](https://atiqulislamwb.netlify.app/project)
 
-- 💬 Ask me about **react native, expo, react, next js**
+- 💬 Ask me about **React Native, Expo, React, Next Js**
 
 - 📫 How to reach me **atiqulislamrussell0@gmail.com**
 
