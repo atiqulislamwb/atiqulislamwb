@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **YA Software LLC as React Native Developer**
 
-- 🌱 I’m currently learning **TypeScript & Swift**
+- 🌱 I’m currently learning **TypeScript , Swift & Swift UI**
 
 - 👨‍💻 All of my projects are available at [https://atiqulislamwb.netlify.app/project](https://atiqulislamwb.netlify.app/project)
 
