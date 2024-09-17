@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atiqul Islam Russell</h1>
 <h3 align="center">A passionate Mobile & Web App Developer</h3>
 
-- 🔭 I’m currently working on **YA Software LLC as React Native Developer**
+- 🔭 I’m currently working on **as React Native Developer**
 
 - 🌱 I’m currently learning **Swift & Swift UI**
 
