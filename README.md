@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atiqul Islam Russell</h1>
-<h3 align="center">A passionate Mobile & Web App Developer</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 - 🔭 I’m currently working on **as React Native Developer**
 
